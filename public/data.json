@@ -1,0 +1,97 @@
+[
+  {
+    "blogId": 1,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/05/Screen-Shot-2023-05-19-at-2.07.50-PM-1-300x200.png",
+    "blogDetail": "Want to write your first Web3 program in just a matter of minutes? Hedera is a great way to get started! Hedera is a proof-of-stake public blockchain network. The Hedera network doesn’t rely on miners to...",
+    "blogTitle": "Write Your First Web3 Program in Minutes Using Hedera",
+    "blogAuthor": "Rosendo Pili",
+    "blogUpdateTime": "May 19, 2023"
+  },
+  {
+    "blogId": 2,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/Screenshot-2023-10-28-211246-300x200.png",
+    "blogDetail": "The term \"hackathon\" is the combination of \"hack\" and \"marathon,\" but don't let the word \"hack\" fool you. In this context, hacking refers to inventive problem-solving. Essentially, we like to think of...",
+    "blogTitle": "What is a hackathon?",
+    "blogAuthor": "Tyler Harz",
+    "blogUpdateTime": "October 30, 2023"
+  },
+  {
+    "blogId": 3,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/Property-1blacklogo-2-300x200.jpg",
+    "blogTitle": "Redis Partners with Major League Hacking for 2024 Hackathon Season",
+    "blogAuthor": "Fiona Whittington",
+    "blogUpdateTime": "October 24, 2023"
+  },
+  {
+    "blogId": 4,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/TTS-2023-People-B0054812-300x200.jpg",
+    "blogDetail": "Are you thinking about the next step you want to take in your career? We highly recommend checking out career opportunities at Fidelity. Every year, many hackers in the Major League Hacking (MLH) community...",
+    "blogTitle": "Accelerate Your Tech Career at Fidelity",
+    "blogAuthor": "Fiona Whittington",
+    "blogUpdateTime": "October 24, 2023"
+  },
+  {
+    "blogId": 5,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/DSC04782-1-300x200.jpg",
+    "blogDetail": "Starting in September 2022, Avanade partnered with Major League Hacking (MLH) to run the “Best Sustainability Hack” challenge at 50 hackathons around the world. The challenge was inspiring....",
+    "blogTitle": "Top 10 Prize-Winning Hackathon Projects for the Avanade Best Sustainability Hack Challenge",
+    "blogAuthor": "Major League Hacking",
+    "blogUpdateTime": "October 24, 2023"
+  },
+  {
+    "blogId": 6,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/Property-1blacklogo-4-300x200.jpg",
+    "blogDetail": "Founded in 1998, Domain.com provides web hosting solutions and technology to successful individuals, entrepreneurs and small to medium-sized businesses around the globe. Domain.com is one of the largest web...",
+    "blogTitle": "Domain.com Increases Product Adoption with Major league Hacking ",
+    "blogAuthor": "Major League Hacking",
+    "blogUpdateTime": "October 24, 2023"
+  },
+  {
+    "blogId": 7,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/03/fellowship-test-e1678143163923-300x200.jpg",
+    "blogDetail": "I’ve always been looking for an opportunity where I could collaborate with people from different walks of life because I wanted to get a feel of what it means to be a global citizen. And here comes the MLH...",
+    "blogTitle": "MLH Fellowship: Embracing Growth and Collaboration — My Journey So Far",
+    "blogAuthor": "Akindele Michael",
+    "blogUpdateTime": "October 16, 2023"
+  },
+  {
+    "blogId": 8,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/DSC3473-scaled-e1696975294419-300x200.jpg",
+    "blogDetail": "Hackathons are a great opportunity for developers in all stages of their careers to build their resumes, grow their networks, and get hands-on technical experience. Below are a few upcoming hackathons in...",
+    "blogTitle": "2023 Edition: New & Upcoming Hackathons",
+    "blogAuthor": "Fiona Whittington",
+    "blogUpdateTime": "October 10, 2023"
+  },
+  {
+    "blogId": 9,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/TTS-2023-People-B0054833-scaled-e1696692841426-300x200.jpg",
+    "blogDetail": "For developer relations and marketing professionals, hackathons serve as a valuable lens through which to view emerging technology trends. These time-crunched, collaborative events are often where tomorrow's...",
+    "blogTitle": "The Top 5 Developer Trends in 2023",
+    "blogAuthor": "Tyler Harz",
+    "blogUpdateTime": "October 7, 2023"
+  },
+  {
+    "blogId": 10,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/03/fellowship-test-e1678143163923-300x200.jpg",
+    "blogDetail": "Contributing to G-Research OSS projects as an MLH Fellow is a transformative experience for me since it allows me to contribute to ground-breaking G-Research projects. As part of the MLH Fellowship SUM...",
+    "blogTitle": "My Experience Contributing to G-Research OSS Projects as MLH Fellow",
+    "blogAuthor": "Baimam Boukar Jean Jacques",
+    "blogUpdateTime": "October 5, 2023"
+  },
+  {
+    "blogId": 11,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/Property-1blacklogo-1-300x200.jpg",
+    "blogDetail": "Major League Hacking (MLH) is excited to announce a partnership with Kintone, a low-code web database, to empower hackers globally!  Use the Kintone Database In Your Next Hack Kintone is a low-code...",
+    "blogTitle": "Kintone Partners with Major League Hacking for 2024 Hackathon Season",
+    "blogAuthor": "Major League Hacking",
+    "blogUpdateTime": "October 5, 2023"
+  },
+  {
+    "blogId": 12,
+    "blogImg": "https://news.mlh.io/wp-content/uploads/2023/10/Property-1whitelogo-3-300x200.jpg",
+    "blogDetail": "Major League Hacking (MLH) is excited to announce a partnership with TinyMCE, to empower developers globally! Together, Major League Hacking, a global community powering the next generation of developers, and...",
+    "blogTitle": "Major League Hacking Partners with TinyMCE for 2024 Hackathon Season",
+    "blogAuthor": "Major League Hacking",
+    "blogUpdateTime": "October 5, 2023"
+  }
+]
